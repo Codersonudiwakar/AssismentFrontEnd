@@ -404,6 +404,9 @@ body {
 }
 
 .contact-form textarea {
+    
+    
+    margin-left: 20px;
     height: 100px;
 }
 
